@@ -1,6 +1,6 @@
 # Awesome DKE
 
-Awesome open-source projects made by students at the Department of Knowledge Engineering at Maastricht University. 
+Awesome open-source projects made by students (and staff!) at the Department of Knowledge Engineering at Maastricht University. 
 
 - [Department list of past student projects](https://project.dke.maastrichtuniversity.nl/studentprojects/)
 
@@ -89,6 +89,10 @@ Awesome open-source projects made by students at the Department of Knowledge Eng
 - [Search algorithms for problem solving, with visualizations](https://github.com/davidpomerenke/elm-problem-solving)
 - [A* motion planning visualization](https://github.com/AlbertNegura/PathfinderVisualizer)
 - [Anatjari problem / Dijkstra](https://github.com/Seeeeeyo/Djikstra)
+
+
+## Other research
+- [Ludii](ludii.games)
 
 ## General
 
