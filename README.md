@@ -92,7 +92,7 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 
 
 ## Other research
-- [Ludii](ludii.games)
+- [Ludii](https://ludii.games/)
 
 ## General
 
