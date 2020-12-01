@@ -101,6 +101,7 @@ As a general rule, if some starting code has been provided, the work is not supp
 - [Movie reviews rating prediction](https://github.com/pietro99/nlp_project)
 - [Song lyrics generation](https://github.com/ericrisbakk/mu-nlp-generate)
 - [Sentiment analysis of tweets to airlines](https://github.com/rhysits/SentimentAnalysis)
+- [Analyzing people's feelings about the news using Aspect-Based Sentiment Analysis](https://gitlab.com/p-skaisgiris/ina)
 
 ### Reasoning Techniques
 
