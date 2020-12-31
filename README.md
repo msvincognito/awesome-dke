@@ -4,24 +4,6 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 
 - [Department list of past student projects](https://project.dke.maastrichtuniversity.nl/studentprojects/)
 
-The purpose of this repository is to share awesome projects made by DKE students and staff, to motivate and inspire. Copying, plagiarising, and otherwise conducting fraud goes fully against the aim of this curated list. 
-
-## Contributing
-
-You can contribute to this repository by adding links to awesome DKE projects to this README and creating a pull request.
-
-Type of projects allowed:
-- BSc/MSc Thesis
-- MSc semester projects
-- Highly individual projects (think projects for Natural Language processing, Data Analysis, etc.)
-- Work inspired by courses, but not direct assignments
-
-Type of projects **not** allowed:
-- BSc semester projects
-- Course assignments.
-
-As a general rule, if some starting code has been provided, the work is not supposed to be published in the public domain.
-
 ## Master
 
 ### Thesis & research projects
@@ -124,3 +106,21 @@ As a general rule, if some starting code has been provided, the work is not supp
 - [DKE student association MSV Incognito](https://github.com/msvincognito)
 - [UM Institute for Data Science](https://github.com/MaastrichtU-IDS)
 - [UM Law&Tech Lab](https://github.com/maastrichtlawtech)
+
+## Contributing
+
+You can contribute to this repository by adding links to awesome DKE projects to this README and creating a pull request.
+
+Type of projects allowed:
+- BSc/MSc Thesis
+- MSc semester projects
+- Highly individual projects (think projects for Natural Language processing, Data Analysis, etc.)
+- Work inspired by courses, but not direct assignments
+
+Type of projects **not** allowed:
+- BSc semester projects
+- Course assignments.
+
+As a general rule, if some starting code has been provided, the work is not supposed to be published in the public domain. 
+
+The purpose of this repository is to share awesome projects made by DKE students and staff, to motivate and inspire. Copying, plagiarising, and otherwise conducting fraud goes fully against the aim of this curated list. 
