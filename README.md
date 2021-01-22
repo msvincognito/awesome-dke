@@ -15,16 +15,15 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 
 ### Semester projects
 
+- [[PDF]](https://github.com/explainable-reasoning/explainable-reasoning.github.io/raw/main/report.pdf)
+  [[Code]](https://github.com/explainable-reasoning)
+  Explainable decision support system based on defeasible logic
 - [[PDF]](https://project.dke.maastrichtuniversity.nl/studentprojects/wp-content/uploads/2016/07/Final-Report-Topic-Detection-and-Tracking-System-Group-5.pdf) 
   [[Code]](https://github.com/Runner-Runner/dke-topictracking)
   Topic detection and tracking system 
 - [[PDF]](https://github.com/fabian-braun/reignOfDke/blob/master/project_report.pdf) 
   [[Code]](https://github.com/fabian-braun/reignOfDke)
   ReignOfDKE - A bot for Battlecode 2014 
-
-### Foundations of agents
-
-- [Markov decision processes](https://github.com/davidpomerenke/elm-agent)
 
 ### Information retrieval & text mining
 
