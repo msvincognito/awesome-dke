@@ -83,6 +83,7 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 - [Song lyrics generation](https://github.com/ericrisbakk/mu-nlp-generate)
 - [Sentiment analysis of tweets to airlines](https://github.com/rhysits/SentimentAnalysis)
 - [Analyzing people's feelings about the news using Aspect-Based Sentiment Analysis](https://gitlab.com/p-skaisgiris/ina)
+- [Meme generation](https://github.com/WalterSimoncini/memegen)
 
 ### Reasoning Techniques
 
