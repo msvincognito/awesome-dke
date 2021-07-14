@@ -3,6 +3,7 @@
 Awesome open-source projects made by students (and staff!) at the Department of Knowledge Engineering at Maastricht University. 
 
 - [Department list of past student projects](https://project.dke.maastrichtuniversity.nl/studentprojects/)
+- [Publications at the department](https://academic.microsoft.com/search?q=maastricht%20university%20artificial%20intelligence%20computer%20science&qe=%40%40%40And(And(Composite(AA.AfN%3D%3D%27maastricht%20university%27)%2CComposite(F.FN%3D%3D%27artificial%20intelligence%27))%2CComposite(F.FN%3D%3D%27computer%20science%27))&f=&orderBy=1)
 
 ## Master
 
@@ -15,6 +16,12 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 
 ### Semester projects
 
+- [[Code]](https://github.com/arthurhaas/um_2021_group11_writingassistant)
+  [[Demo]](http://writingassistant.ml)
+  Scientific writing assistant
+- [[PDF]](https://github.com/learning-arguments/learning-arguments/raw/main/Report.pdf)
+  [[Code]](https://github.com/learning-arguments/learning-arguments)
+  Explainable AI: Learning Arguments
 - [[PDF]](https://github.com/explainable-reasoning/explainable-reasoning.github.io/raw/main/report.pdf)
   [[Code]](https://github.com/explainable-reasoning)
   Explainable decision support system based on defeasible logic
@@ -27,8 +34,13 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 
 ### Information retrieval & text mining
 
-- [Information retrieval from Agatha Christie Novel "And then there were none"](https://github.com/omendram/text-mining)
-- [The Simpsons sentiment analysis](https://github.com/CamielK/simpsons-text-mining)
+- [[PDF]](https://www.dropbox.com/s/96czpl7e5xerhtp/IRTM_project_report.pdf?dl=0)
+  [[Code]](https://github.com/bghorvath/TextMiningTheBechdelTest)
+  Text mining the Bechdel Test
+- [[Code]](https://github.com/omendram/text-mining)
+  Information retrieval from Agatha Christie Novel "And then there were none"
+- [[Code]](https://github.com/CamielK/simpsons-text-mining)
+  The Simpsons sentiment analysis
 
 ### Intelligent search & games
 
@@ -42,15 +54,22 @@ Awesome open-source projects made by students (and staff!) at the Department of 
   [1](https://github.com/Brechard/Omega), 
   [2](https://github.com/CamielK/ISG_Omega_Game_AI), 
   [3](https://github.com/gpatsiaouras/Omega)
+- MingMang: [Java](https://github.com/colinschepers)
 - KnightThrough: [Java](https://github.com/fabian-braun/KnightThroughBot)
 - Andantino: [C#](https://github.com/IsmailAlaouiAbdellaoui/Andantino-Search)
 - Breakthrough: [C++](https://github.com/DennisSoemers/SerPrunesALot)
+
+### Advanced Natural Language Processing
+
+- [[PDF]](https://github.com/davidpomerenke/HS-Detection-Project/raw/main/report.pdf)
+  [[Code]](https://github.com/carstengieshoff/HS-Detection-Project)
+  Hate speech detection
 
 ## Bachelor
 
 ### Thesis
 
-- [[PDF]](https://github.com/Noixas/Official-Evaluating-Bias-In-Dutch) 
+- [[PDF]](https://arxiv.org/pdf/2011.00244)
   [[Code]](https://github.com/Noixas/Official-Evaluating-Bias-In-Dutch)
   Evaluating bias in Dutch word embeddings 
 - [[PDF]](https://arxiv.org/abs/2010.16228) 
@@ -62,9 +81,16 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 
 ### Data Analysis - "Data Madness"
 
-- [Which programming language should you choose?](https://github.com/ryared/DataMadness)
-- [Video game sales](https://github.com/Noixas/DataMadness-2020-Video-Games-Sales-2019)
-- [DotA Madness](https://github.com/antonwnk/DotA-Madness-DKE-DA-Assignment)
+- [[Video]](https://www.facebook.com/watch/?v=150310216341349)
+  [[Code]](https://github.com/arthurhaas/UM_datamadness)
+  How to create the perfect Youtube video
+- [[Video]](https://www.youtube.com/watch?v=2rByTMRnfQU)
+  Which programming language should you choose?
+- [[Blog]](https://rodrigochavez.dev/data-madness-video-games-sales-2019/)
+  [[Code]](https://github.com/Noixas/DataMadness-2020-Video-Games-Sales-2019)
+  Video games sales
+- [[Code]](https://github.com/antonwnk/DotA-Madness-DKE-DA-Assignment)
+  DotA Madness
 
 ### Logic
 
