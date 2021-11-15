@@ -16,6 +16,9 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 
 ### Semester projects
 
+- [[PDF]](https://luis.leiva.name/tmp/bnaic2021_preproceedings.pdf)
+  [[Code]](https://github.com/Pawel-M/Machine-Learning-and-Reasoning)
+  Combining mental models with neural networks (see p. 256ff. in PDF)
 - [[Code]](https://github.com/arthurhaas/um_2021_group11_writingassistant)
   [[Demo]](http://writingassistant.ml)
   Scientific writing assistant
