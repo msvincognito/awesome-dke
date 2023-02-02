@@ -1,6 +1,6 @@
-# Awesome DKE
+# Awesome DACS
 
-Awesome open-source projects made by students (and staff!) at the Department of Knowledge Engineering at Maastricht University. 
+Awesome open-source projects made by students (and staff!) at the Department of Advanced Computing Sciences (formerly DKE) at Maastricht University. 
 
 - [Department list of past student projects](https://project.dke.maastrichtuniversity.nl/studentprojects/)
 - [Publications at the department](https://academic.microsoft.com/search?q=maastricht%20university%20artificial%20intelligence%20computer%20science&qe=%40%40%40And(And(Composite(AA.AfN%3D%3D%27maastricht%20university%27)%2CComposite(F.FN%3D%3D%27artificial%20intelligence%27))%2CComposite(F.FN%3D%3D%27computer%20science%27))&f=&orderBy=1)
@@ -127,18 +127,18 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 ## General
 
 - [Thesis template](https://github.com/msvincognito/maastricht-university-thesis-template)
-- [Surviving DKE](https://github.com/msvincognito/survivingdke)
+- [Surviving DACS](https://github.com/msvincognito/survivingdke)
 - [Linux @ UM](https://github.com/msvincognito/um-linux)
 
 ## Related organizations
 
-- [DKE student association MSV Incognito](https://github.com/msvincognito)
+- [DACS student association MSV Incognito](https://github.com/msvincognito)
 - [UM Institute for Data Science](https://github.com/MaastrichtU-IDS)
 - [UM Law&Tech Lab](https://github.com/maastrichtlawtech)
 
 ## Contributing
 
-You can contribute to this repository by adding links to awesome DKE projects to this README and creating a pull request.
+You can contribute to this repository by adding links to awesome DACS projects to this README and creating a pull request.
 
 Type of projects allowed:
 - BSc/MSc Thesis
@@ -152,4 +152,4 @@ Type of projects **not** allowed:
 
 As a general rule, if some starting code has been provided, the work is not supposed to be published in the public domain. 
 
-The purpose of this repository is to share awesome projects made by DKE students and staff, to motivate and inspire. Copying, plagiarising, and otherwise conducting fraud goes fully against the aim of this curated list. 
+The purpose of this repository is to share awesome projects made by DACS students and staff, to motivate and inspire. Copying, plagiarising, and otherwise conducting fraud goes fully against the aim of this curated list. 
