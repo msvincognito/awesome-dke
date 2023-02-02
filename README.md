@@ -11,6 +11,9 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 - [[PDF]](https://raw.githubusercontent.com/antonvalkenberg/ThesisCodeHSCMAB/master/Approaching_Hearthstone_as_a_Combinatorial_Multi_Armed_Bandit_Problem.pdf) 
   [[Code]](https://github.com/antonvalkenberg/ThesisCodeHSCMAB) 
   Approaching Hearthstone as a combinatorial multi-armed bandit problem
+- [[PDF]](https://arxiv.org/abs/2212.02564)
+  [[Code]](https://github.com/tech4germany/bam-inclusify)
+  NLP for gender-inclusive language
 - [List of master theses in the _AI and Games_ group](https://project.dke.maastrichtuniversity.nl/games/listMsc.htm)
 
 ### Semester projects
