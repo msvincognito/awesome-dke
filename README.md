@@ -3,7 +3,6 @@
 Awesome open-source projects made by students (and staff!) at the Department of Advanced Computing Sciences (formerly DKE) at Maastricht University. 
 
 - [Department list of past student projects](https://project.dke.maastrichtuniversity.nl/studentprojects/)
-- [Publications at the department](https://academic.microsoft.com/search?q=maastricht%20university%20artificial%20intelligence%20computer%20science&qe=%40%40%40And(And(Composite(AA.AfN%3D%3D%27maastricht%20university%27)%2CComposite(F.FN%3D%3D%27artificial%20intelligence%27))%2CComposite(F.FN%3D%3D%27computer%20science%27))&f=&orderBy=1)
 
 ## Master
 
