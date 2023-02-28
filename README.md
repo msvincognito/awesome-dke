@@ -8,6 +8,8 @@ Awesome open-source projects made by students (and staff!) at the Department of 
 
 ### Thesis & research projects
 
+- [[PDF]](https://github.com/msvincognito/awesome-dke/raw/main/pdf/gauthy2023.pdf)
+  Exploring transfer learning, synthetic data augmentation, and explainability techniques for improved vehicle damage assessment
 - [[PDF]](https://raw.githubusercontent.com/antonvalkenberg/ThesisCodeHSCMAB/master/Approaching_Hearthstone_as_a_Combinatorial_Multi_Armed_Bandit_Problem.pdf)
   [[Code]](https://github.com/antonvalkenberg/ThesisCodeHSCMAB)
   Approaching Hearthstone as a combinatorial multi-armed bandit problem
